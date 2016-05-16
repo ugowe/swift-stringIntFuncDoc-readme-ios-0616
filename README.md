@@ -1,4 +1,4 @@
-# String, Int, their functions + Documentation
+# String, their functions + Documentation
 
 ![Audrey](http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTE1ODA0OTcxNjU3NzU4MjIx.jpg)  
 > Nothing is impossible, the word itself says 'I'm possible'!
