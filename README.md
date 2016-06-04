@@ -77,6 +77,14 @@ You've just called a method on your `String`! Notice in the playground sidebar t
 
 ![AUDREY](.images/AUDREY.png)
 
+You can see this in action by printing the value of `name.uppercaseString` to the playground's console. Try saving that return value in another constant and printing it out. Here's some code to help you that you can try out in your playground:
+
+```swift
+let uppercaseName = name.uppercaseString
+print("\(name)... \(name)... \(uppercaseName)! WAKE UP!")
+// prints "Audrey... Audrey... AUDREY! WAKE UP!")
+```
+
 ## Getting More Help
 
 The help documentation included with Xcode is very comprehensive. You should get used to browsing it, as it will become very important as you learn Swift.
