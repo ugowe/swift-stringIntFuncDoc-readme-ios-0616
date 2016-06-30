@@ -43,7 +43,7 @@ Let's go back to your playground file and see this help documentation in action.
 
 On a new line of your playground, type `name.`—make sure you type the period at the end! Then stop. You will see a popup with a list of methods that are available to `String`s appear like this:
 
-![String autocomplete](.images/autocomplete.png)
+![String autocomplete](http://i.imgur.com/1XeUrD7.png)
 
 This popup is referred to as "autocomplete". This menu appears in Xcode whenever you try to call a method on a constant or variable.
 
@@ -53,17 +53,17 @@ Take a look at the autocomplete menu that appeared. All of the items in it are m
 
 You can actually scroll this through this autocomplete popup. Use your mouse or trackpad to scroll through the list. Keep scrolling down until you get to the methods that start with **U**. You should see one that is called `uppercaseString`. That looks like a winner!
 
-![Autocomplete scrolling](.images/autocomplete2.png)
+![Autocomplete scrolling](http://i.imgur.com/TLGiFu3.png)
 
 Now type `up`, so your line of code in your playground says `name.up`. You'll see that the autocomplete list is now filtered, so only methods that match the string "up" appear.
 
-![Autocomplete: "up"](.images/autocomplete-up.png)
+![Autocomplete: "up"](http://i.imgur.com/fMcGRRA.png)
 
 Make sure "uppercaseString" is highlighted in the autocomplete menu and hit <kbd>Return</kbd>. Xcode will helpfully fill in the rest of the method name. (You could also type it out yourself, but why not let Xcode do all the boring work?)
 
 You've just called a method on your `String`! Notice in the playground sidebar that the return value of that method is "AUDREY". Your string has been capitalized!
 
-![AUDREY](.images/AUDREY.png)
+![AUDREY](http://i.imgur.com/NWHxVHS.png)
 
 You can see this in action by printing the value of `name.uppercaseString` to the playground's console. Try saving that return value in another constant and printing it out. Here's some code to help you that you can try out in your playground:
 
