@@ -1,26 +1,14 @@
 # Strings, Their Functions, and Documentation
 
-![Audrey](http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,q_80,w_620/MTE1ODA0OTcxNjU3NzU4MjIx.jpg)  
-> Nothing is impossible, the word itself says "I'm possible"!
+![Audrey](http://i.imgur.com/1pI19v7.jpg?1)  
+> Nothing is impossible, the word itself says "I'm possible"! -[Audrey Hepburn](https://en.wikipedia.org/wiki/Audrey_Hepburn)
 
-## Learning Objectives - The student should be able to...
+## Learning Objectives
 
 * Use Apple's documentation.
 * Bring up Apple's documentation from the playground file.
-* Understand how to produce the following:
 
-```swift
-let nameCapitalized = name.uppercaseString
-let fullName = name + " Hepburn"
-```
 
-## What the student can do at this point 
-
-* Create functions with one/two arguments
-* Create functions with return values
-* Create variables and constants
-* Knows how to use the `print` function
-* Knows of the types `String` and `Int`
 
 ## Getting Help
 
