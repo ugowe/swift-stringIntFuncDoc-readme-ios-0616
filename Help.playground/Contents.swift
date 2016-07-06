@@ -1,6 +1,6 @@
-let name = "Audrey"
+let name = "Hannibal"
 name.uppercaseString
 
-let uppercaseName = name.uppercaseString
-print("\(name)... \(name)... \(uppercaseName)! WAKE UP!")
-// prints "Audrey... Audrey... AUDREY! WAKE UP!")
+let upperCaseName = name.uppercaseString
+print("\(name)... \(name)... \(upperCaseName)! WAKE UP!")
+// prints "Hannibal... Hannibal... HANNIBAL! WAKE UP!")
